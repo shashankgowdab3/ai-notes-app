@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This project is a full stack AI Notes App where users can register, log in, and manage their personal notes. The application uses JWT-based authentication to securely handle user sessions. After logging in, users can create notes by adding a title and content, view their saved notes, and delete notes when needed. A key feature of this project is AI integration, where users can generate a short summary of their note content using a Hugging Face AI model through a backend API. The frontend is built using Next.js and TypeScript with basic styling, while the backend logic is handled using Next.js API routes and Node.js. This project was developed to practice full stack development, authentication, API creation, and integrating AI features into a web application.
+=======
+# ai-notes-app
+>>>>>>> e98ef346090db859c5ee3ce039727e8a076b73be
