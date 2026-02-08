@@ -9,3 +9,6 @@
 8. The backend logic is handled using Next.js API routes and Node.js.
 9. This project demonstrates full stack development skills including authentication, API handling, state management, and AI powered features.
 
+
+Live Demo: https://ai-notes-app-xff1.vercel.app
+
